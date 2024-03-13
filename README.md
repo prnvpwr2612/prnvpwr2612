@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prnvpwr2612
+- 👋 Hi, I’m Pranav.
 - 👀 I’m a Deep Learning Enthusiast. I love to work on Data Science projects as well.
 - 🌱 I’m currently learning Generative Modelling in DL.
 - 💞️ I’m looking to collaborate on any product based application involving Machine Learning.
