@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pranav.
-- 👀 I’m a Deep Learning Enthusiast. I love to work on Data Science projects as well.
-- 🌱 I’m currently learning Generative Modelling in DL.
-- 💞️ I’m looking to collaborate on any product based application involving Machine Learning.
+- 👀 I’m a Deep Learning Enthusiast!:>
+- 🌱 I’m currently learning Generative Modelling in DL as well as MLOps.
 - 📫 How to reach me? Well here's my email-id :- ppawar2612@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i know more about neural networks than about XG Boost Classifiers :)
